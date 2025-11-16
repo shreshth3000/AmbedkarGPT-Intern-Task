@@ -20,7 +20,7 @@ git clone <your-repo-url>
 cd <repo-folder>
 ```
 
-### 2. Create and activate a virtual environment
+### 2. Create and activate a virtual environment (I used uv, but you can use venv or conda)
 
 ```
 python -m venv venv
