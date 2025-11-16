@@ -16,8 +16,8 @@ This project is a CLI-based Retrieval-Augmented Generation (RAG) application. It
 ### 1. Clone the repository
 
 ```
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/shreshth3000/AmbedkarGPT-Intern-Task
+cd AmbedkarGPT-Intern-Task
 ```
 
 ### 2. Create and activate a virtual environment (I used uv, but you can use venv or conda)
